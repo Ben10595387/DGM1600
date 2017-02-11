@@ -1,0 +1,11 @@
+Variables are sections or groups of info. 
+Variables can be used to define or redefine certain things. 
+Such as int(whole #)
+	float-number that is not a whole (2.5)
+	double- precise version of a float
+	char- single character such as 'U' 
+	bool- true or false variables
+	string- multiple or sequence of characters "Derp" 
+References are used to, surprise surprise, reference variables. 
+Types of References are Classes 
+variables are referenced inside classes. 
