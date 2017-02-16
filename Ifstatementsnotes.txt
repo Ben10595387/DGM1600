@@ -2,5 +2,4 @@
 	These are conditional. You need to create the perameters for this if 
 statement by having if at the beginning of the line of code. 
 	then create all of the if statements possible that don't work for the scenario by using else if before the line of code.
-	Then list the solutions that you allow using the else statements.  
-
+  then creat the else statement that does work.
