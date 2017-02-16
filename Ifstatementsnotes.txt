@@ -2,38 +2,4 @@
 	These are conditional. You need to create the perameters for this if 
 statement by having if at the beginning of the line of code. 
 	then create all of the if statements possible that don't work for the scenario by using else if before the line of code.
-	Then list the solutions that you allow using the else statements.
-if("night");
-else if(eyesglow);
-
-if(shot);
-else if(health-50);
-
-if(happy);
-else if(display "Happy face")
-
-if(player1=winner)
-else if('player1'.ID=green)
-
-if(noammo)
-else if(reload)
-
-if(ammocounter=0)
-else if(Console.WriteLine("no ammo, can't fire you Derp.")
-
-Void Update ()
-if(inside freezing water)
-health -= Time.deltaTime * 5;
-
-if(eat apple)
-else if(health + 50)
-
-if(eat bleach)
-else if(health - 90)
-Console.WriteLine("YU R DED")
-
-if(don't take shower)
-else if(people stay 10ft away)
- 
-  
-
+  then creat the else statement that does work.
