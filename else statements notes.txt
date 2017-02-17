@@ -1,0 +1,18 @@
+		Else Statements
+Else statements are used after if statements. If statments are answers to questions. If 
+this happens, then (else) this happens. To use then or else statements write 
+else if(______).
+Along with if statments it is important to go through all the possible outcomes of that
+certatin situation.  
+
+
+if(eat bleach)
+else if(health - 90)
+Console.WriteLine("YU R DED") 
+
+Void Update ()
+if(inside freezing water)
+else if(health -= Time.deltaTime * 5;)
+
+  
+
