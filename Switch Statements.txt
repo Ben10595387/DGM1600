@@ -1,0 +1,20 @@
+Like if and else statements but Switch statements are more streamlined. 
+Switch statements deal with numbers and constants, or multiple if/then statements. 
+If you are going to nest more than 2/3 if/ else statments don't. Use a Switch statment. 
+public class ConversationScript ; MonoBehaviour
+Void Greet
+  switch (___________)
+  case #
+     print ("whatever you want to print")
+     break;
+on and on until lowest _______
+default; 
+print (__________)
+break;
+
+This can be used with intelligence levels in video games (actions, do they attack? do
+they try to be diplomatic?), test/quiz scores, conversations,
+choosing what to do with something (if you find a weapon, what do you do with it?)
+like in mass effect or skyrim, what you do effects the story. are there multiple consequences? 
+use a Switch statment. 
+ 
