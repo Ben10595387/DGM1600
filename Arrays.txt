@@ -1,0 +1,43 @@
+	Arrays can be used when you want to have a list, or string of items. Usually containing items of the 
+same type. 
+
+int(array)[] (Name of array here) = {What is in the array};
+	for(looptype)(int i = 0(this lets unity go through the list); i < (name of array).Length; i++(increment)){
+		print(whatever you want + name of array[i]);
+
+
+
+
+public string[] friends = {"Bill","Hobo","Derp","Liam Neeson"};
+
+	
+	void Start () {
+		
+	for(int i = 0; i < friends.Length; i++)
+{
+		
+		print("Hello" + friends[i]);
+
+
+
+public string[] inventory = {"nerf gun","walmart pocketknife","chapstic","power crystals","poptarts"};
+
+	
+	void Start () {
+		
+	for(int i = 0; i < inventory.Length; i++)
+{
+		
+		print("I have" + inventory[i]);
+				
+
+public string[] stuffIhate = {"Mustard","pickles","idiots","yep, idiots"};
+
+	
+	void Start () {
+		
+	for(int i = 0; i < stuffIhate.Length; i++)
+{
+		
+		print("I hate" + stuffIhate[i]);
+			
