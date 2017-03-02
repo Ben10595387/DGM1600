@@ -1,0 +1,19 @@
+Lists are used under the System.Collections.Generic namespace (at the
+top of the code) they are used when you want to have an unlimited number 
+of items in the same group. Unlike Arrays when you need a defined amount 
+of items. 
+
+example fruits
+list<string> fruits = new List<string>();
+   fruits.Add("orange");
+   fruits.Add("apple");
+   fruits.Add("grape");
+  ect.
+
+or enemies
+List<BadGuy> badguys//previously defined// = new List<BadGuy>();
+  badguys.Add( new BadGuy("Joker");
+  badguys.Add( new BadGuy("Ultron");
+  badguys.Add( new BadGuy("Aaron");
+ect.
+
