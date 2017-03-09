@@ -1,0 +1,8 @@
+Scope 
+	Scope is the area in between {} braces. 
+
+Access Modifiers  
+	These modifies how easily variables and references are accessed. By default they are private unless declared
+public. If a variable is inside a function though you can not change it. If it's outside you or another program
+(unity) is able to modify it. 
+
